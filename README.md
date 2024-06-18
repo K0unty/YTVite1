@@ -8,6 +8,7 @@
 3. [Dirs](#dirs)
 4. [Commands](#commands)
    1. [Start Vite Project - Using Bun](#start-vite-project---using-bun)
+   2. [Using Vite-Inspect Plugin](#using-vite-inspect-plugin)
 
 # YTVite1
 
@@ -41,4 +42,17 @@ curl -fsSL https://bun.sh/install | bash
 
 ```sh
 bun create vite
+```
+
+## Using Vite-Inspect Plugin
+
+Third party plugin, for viewing changes and debugging in the browser.
+
+[`https://github.com/antfu-collective/vite-plugin-inspect`](https://github.com/antfu-collective/vite-plugin-inspect)
+
+1. This has to be manually installed in the project.
+2. Official docs suggest using npm , you will use bun instead
+
+```sh
+bun i -D vite-plugin-inspect
 ```
