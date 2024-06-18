@@ -10,7 +10,7 @@
    1. [Start Vite Project - Using Bun](#start-vite-project---using-bun)
    2. [Using Vite-Inspect Plugin](#using-vite-inspect-plugin)
 5. [ExternalLibs](#externallibs)
-   1. [\`Collect.JS](#collectjs)
+   1. [`Collect.JS`](#collectjs)
 
 # YTVite1
 
@@ -71,6 +71,12 @@ bun i -D vite-plugin-inspect
 
 > External libs being used in tutorial
 
-## [`Collect.JS](https://collect.js.org/)
+## [`Collect.JS`](https://collect.js.org/)
 
-1. Looks like a
+1. Lib for working with Arrays and objects
+
+Install
+
+```sh
+bun insall collect.js --save
+```
