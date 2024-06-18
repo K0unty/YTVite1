@@ -9,6 +9,8 @@
 4. [Commands](#commands)
    1. [Start Vite Project - Using Bun](#start-vite-project---using-bun)
    2. [Using Vite-Inspect Plugin](#using-vite-inspect-plugin)
+5. [ExternalLibs](#externallibs)
+   1. [\`Collect.JS](#collectjs)
 
 # YTVite1
 
@@ -64,3 +66,11 @@ bun i -D vite-plugin-inspect
    `http://localhost:3000/__inspect/ `
 
 - TO access the plugin.
+
+# ExternalLibs
+
+> External libs being used in tutorial
+
+## [`Collect.JS](https://collect.js.org/)
+
+1. Looks like a
