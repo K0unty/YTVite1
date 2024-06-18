@@ -56,3 +56,11 @@ Third party plugin, for viewing changes and debugging in the browser.
 ```sh
 bun i -D vite-plugin-inspect
 ```
+
+3. After installing run
+   `bun run dev`
+
+4. Open browser and go to
+   `http://localhost:3000/__inspect/ `
+
+- TO access the plugin.
