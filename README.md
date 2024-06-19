@@ -97,4 +97,11 @@ bunx tailwindcss init -p
 
 ## [`SASS`](https://sass-lang.com/)
 
-1.
+1.Installation code
+
+```sh
+bun i -g sass
+
+# This is an important step
+bun add -D sass
+```
