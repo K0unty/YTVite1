@@ -12,6 +12,7 @@
 5. [ExternalLibs](#externallibs)
    1. [`Collect.JS`](#collectjs)
    2. [`TailwindCSS for Vite Using VUE`](#tailwindcss-for-vite-using-vue)
+   3. [`SASS`](#sass)
 
 # YTVite1
 
@@ -93,3 +94,7 @@ bun install -D tailwindcss postcss autoprefixer
 # Generating the config
 bunx tailwindcss init -p
 ```
+
+## [`SASS`](https://sass-lang.com/)
+
+1.
