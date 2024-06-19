@@ -1,0 +1,8 @@
+/*
+Required config for tailwind 
+https://tailwindcss.com/docs/guides/vite#vue
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
