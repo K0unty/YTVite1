@@ -11,6 +11,7 @@
    2. [Using Vite-Inspect Plugin](#using-vite-inspect-plugin)
 5. [ExternalLibs](#externallibs)
    1. [`Collect.JS`](#collectjs)
+   2. [`TailwindCSS for Vite Using VUE`](#tailwindcss-for-vite-using-vue)
 
 # YTVite1
 
@@ -80,3 +81,7 @@ Install
 ```sh
 bun insall collect.js --save
 ```
+
+## [`TailwindCSS for Vite Using VUE`](https://tailwindcss.com/docs/guides/vite#vue)
+
+1. One part of the tut was focusing on hiw vite transforms _postcss_ for this , we install tailwindcss
