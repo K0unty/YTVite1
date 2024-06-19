@@ -85,3 +85,11 @@ bun insall collect.js --save
 ## [`TailwindCSS for Vite Using VUE`](https://tailwindcss.com/docs/guides/vite#vue)
 
 1. One part of the tut was focusing on hiw vite transforms _postcss_ for this , we install tailwindcss
+
+```sh
+# Installing Tailwind
+bun install -D tailwindcss postcss autoprefixer
+
+# Generating the config
+bunx tailwindcss init -p
+```
