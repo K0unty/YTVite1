@@ -3,4 +3,8 @@
  */
 // import styles from "./src/assets/06.module.sass";
 
-import imageUrl from "./src/assets/img/javscript.svg";
+import imageUrl from "./src/assets/img/javascript.svg";
+
+console.log(imageUrl);
+
+document.getElementById("image").src = imageUrl;

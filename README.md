@@ -1,9 +1,4 @@
-
-
-
 https://github.com/K0unty/YTVite1/assets/119057948/ba5f9dcd-bba7-4fca-89e0-be9e7a882a3c
-
-
 
 <h1 align="center"> <i>YTvite1</i> </h1>
 <h2 align="center"><code>YTVite Tutorial</code></h2>
